@@ -7,8 +7,8 @@
 .metadata
 bin/
 tmp/
-Library/
-obj/
+[Ll]ibrary/
+[Oo]bj/
 *.tmp
 *.bak
 *.swp
